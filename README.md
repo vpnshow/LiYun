@@ -6,19 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/liyun) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-鲤云(LiYun) 采用**海外中转节点与 VLESS 协议**，面向日常海外网站访问、流媒体观影和 AI 工具使用。月付从 **¥7、50GB/月**起，另有季付 64GB/月、年付 128GB/月特惠，以及总计 100GB 的不限时流量包。
-
 > [!NOTE]
 > **30 秒看懂鲤云(LiYun)**
 >
-> - **月付入门**：小鲤 50GB/月、¥7/月；中鲤 100GB/月、¥10/月；大鲤 200GB/月、¥17/月。
-> - **周期特惠**：64GB/月特惠季付 ¥21、年付 ¥84，年费折合 ¥7/月；128GB/月特惠年付 ¥120，折合 ¥10/月。
-> - **专属 8 折优惠码**：结算时输入 `eoht`，适用套餐与最终实付金额以结算页为准。
-> - **不限时流量**：一次性 ¥99，提供总计 100GB，不设使用时限，用完即止。
-> - **通用订阅**：可导入支持 VLESS 协议及对应订阅格式的第三方客户端。
+> [访问官网](https://eoht.net/serve/airport/liyun) · [查看套餐与优惠码](https://eoht.net/serve/airport/liyun#liyun-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/liyun#liyun-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/liyun#liyun-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/liyun#liyun-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：小鲤 ¥7/月、50GB/月；64GB/月特惠可季付 ¥21 或年付 ¥84。
+> - **使用方式**：支持 VLESS 通用订阅；另有 ¥99、100GB 的不限时总流量包，用完即止。
+> - **专属优惠**：`eoht` 享 8 折，适用套餐与最终实付金额以结算页为准。
 >
+
+鲤云(LiYun) 采用**海外中转节点与 VLESS 协议**，面向日常海外网站访问、流媒体观影和 AI 工具使用。月付从 **¥7、50GB/月**起，另有季付 64GB/月、年付 128GB/月特惠，以及总计 100GB 的不限时流量包。
 
 <a id="liyun-official-website"></a>
 
